@@ -1,0 +1,6 @@
+[submodule "GitSubmoduleDemoChild1"]
+	path = GitSubmoduleDemoChild1
+	url = https://github.com/frymire/GitSubmoduleDemoChild1.git
+[submodule "GitSubmoduleDemoChild2"]
+	path = GitSubmoduleDemoChild2
+	url = https://github.com/frymire/GitSubmoduleDemoChild2.git
